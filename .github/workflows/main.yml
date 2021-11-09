@@ -9,6 +9,6 @@ jobs:
         uses: peter-evans/create-or-update-project-card@v1
         with:
           project-location: colin-marley 
-          token: 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
+          token: ${{ secrets.MY_TOKEN }}
           project-name: Test Project
           column-name: NEW ISSUES
