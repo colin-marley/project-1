@@ -9,4 +9,4 @@ jobs:
       with:
         action-token: "${{ secrets.GHPROJECT_TOKEN }}"
         project-url: "https://github.com/orgs/colin-marley/projects/1"
-        column-name: "backlog"
+        column-name: "New Issues"
