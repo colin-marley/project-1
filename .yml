@@ -1,6 +1,6 @@
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v1
         with:
-          project-name: My project
-          column-name: My column
+          project-name: Test Project
+          column-name: NEW ISSUE
           issue-number: 1
